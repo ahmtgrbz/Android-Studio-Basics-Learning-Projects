@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819493162414",
+    "project_id": "mynotefirebase-8ab86",
+    "storage_bucket": "mynotefirebase-8ab86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819493162414:android:b496e6fe1731f2aa830c3f",
+        "android_client_info": {
+          "package_name": "com.example.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819493162414-qf2dlq92on3ob08834l2t2kekgvevnn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfKPZD-lGy2ov_NADW-uzKBMS_BcOi-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819493162414-qf2dlq92on3ob08834l2t2kekgvevnn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
